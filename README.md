@@ -1,2 +1,2 @@
 # my-first-repo
-dieter
+this repo is for the best dog ever, dieter
